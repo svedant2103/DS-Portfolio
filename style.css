@@ -27,7 +27,7 @@ body{
     border-radius: 16px;
     padding: 40px;
     position: sticky;
-    top: 40px;
+    top: 20px;
 }
 
 .main-content{
@@ -378,6 +378,5 @@ nav a{
     padding: 5px 10px;
     border-radius: 5px;
     font-size: 0.9rem;
-    margin: 0px 15px;
     margin-right: 5px;
 }
