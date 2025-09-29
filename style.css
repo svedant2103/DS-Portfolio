@@ -381,14 +381,3 @@ nav a{
     margin: 0px 20px;
     margin-right: 10px;
 }
-
-@media screen and (max-width: 1200px){
-    .main-container{
-        grid-template-columns: 1fr;
-        padding: 20px;
-    }
-    .side-bar{
-        height: auto;
-        position: static;
-    }
-}
